@@ -11,4 +11,4 @@ run sonar-scanner ---in the project
   -Dsonar.projectKey=Amali-Tech_arms-project-management-frontend \
   -Dsonar.sources=. \
   -Dsonar.host.url=http://localhost:9000 \
-  -Dsonar.token=squ_f422c9cee822f49dace4c0b73aff0536a6133aec
+  -Dsonar.token=squ_f422c9cee822f49dace4c0b73aff0536a6133aec 
